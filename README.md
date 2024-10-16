@@ -11,7 +11,7 @@ Here are some of the projects I've worked on:
 
 - **[E-Plant Shopping](https://github.com/Harsha-Hemanth/e-plantShopping)**: A frontend React application designed for plant enthusiasts to browse and purchase various plants online. The app features an intuitive user interface, detailed product listings, and seamless navigation for a smooth shopping experience.
 
-- **[ATS Optimized Resume Analyzer](https://github.com/Harsha-Hemanth/ATS-Optmized-Resume-Analyzer)**: An ATS-optimized resume analyzer that provides personalized feedback and insights using Streamlit and Google Generative AI.
+- **[ATS Optimized Resume Analyzer](https://github.com/Harsha-Hemanth/ATS-Optimized-Resume-Analyzer)**: An ATS-optimized resume analyzer that provides personalized feedback and insights using Streamlit and Google Generative AI.
   
 - **[RPG Dragon Repeller](https://github.com/Harsha-Hemanth/RPG_Dragon_Repeller)**: A simple RPG game developed in JavaScript that challenges players in a magical world.
 
